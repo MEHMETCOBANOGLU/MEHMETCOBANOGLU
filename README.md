@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Çobanoğlu</h1>
 <h3 align="center">Junior Frontend/Flutter Developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/13842635/media/06fdccbc7f0e1d47237b588dc0dbdb42.gif">
+<img align="right" alt="Coding" width="400" src="https://files.virgool.io/upload/users/3560327/posts/wkgdx7pjki4l/mwtnntpdz4fv.gif?width=768">
 
 - 🔭 I’m currently working on **Flutter mobile apps**
 

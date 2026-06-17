@@ -53,3 +53,8 @@
     </td>
   </tr>
 </table>
+
+
+
+
+<img src="https://github.com/MEHMETCOBANOGLU/MEHMETCOBANOGLU/blob/output/snake.svg" alt="Snake animation" />

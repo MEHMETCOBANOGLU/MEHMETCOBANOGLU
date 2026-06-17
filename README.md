@@ -49,7 +49,7 @@
     </td>
     <td>
       <strong>Merino Çizgi</strong><br/>
-      A digital comic book platform for Turkish artists, built with Flutter Web and Firebase.
+      A digital comic book platform for Turkish artists, built with Flutter Web and Firebase..
     </td>
   </tr>
 </table>

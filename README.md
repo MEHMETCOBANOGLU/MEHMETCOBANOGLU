@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h3 align="left">🚀 My Projects</h3>
+<h3 align="left">🚀 Personal Projects</h3>
 
 <table>
   <tr>
@@ -50,6 +50,31 @@
     <td>
       <strong>Merino Çizgi</strong><br/>
       A digital comic book platform for Turkish artists, built with Flutter Web and Firebase..
+    </td>
+  </tr>
+</table>
+
+
+<h3 align="left">💼 Professional Work</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.sezin.smartmobile" target="_blank">
+        <img src="https://img.shields.io/badge/Android-Google Play-green?style=for-the-badge&logo=googleplay" alt="Smart Mobile Android"/>
+      </a>
+    </td>
+    <td rowspan="2">
+      <strong>Smart Mobile</strong><br/>
+      Company-owned enterprise Flutter app by <strong>SEZİN TIBBİ GÖRÜNTÜLEME VE KALP MERKEZİ</strong>.<br/>
+      Contributed to mobile modules and maintenance.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/us/app/sezin-smart/id6757295771" target="_blank">
+        <img src="https://img.shields.io/badge/iOS-App Store-blue?style=for-the-badge&logo=appstore" alt="Smart Mobile iOS"/>
+      </a>
     </td>
   </tr>
 </table>

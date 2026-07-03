@@ -54,7 +54,11 @@
   </tr>
 </table>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=MEHMETCOBANOGLU&theme=transparent&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MEHMETCOBANOGLU&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<img src="https://raw.githubusercontent.com/MEHMETCOBANOGLU/MEHMETCOBANOGLU/output/snake.svg" alt="Snake animation" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

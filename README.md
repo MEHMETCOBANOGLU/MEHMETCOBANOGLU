@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Çobanoğlu</h1>
 <h3 align="center">Mid-Level Flutter Developer from Turkey</h3>
 
-<img align="right" alt="Coding" width="400" src="https://files.virgool.io/upload/users/3560327/posts/wkgdx7pjki4l/mwtnntpdz4fv.gif?width=768">
+
 
 - 💼 I’m currently working as a **Flutter Developer**
 
